@@ -12,3 +12,6 @@ Upload `index.html`, `CNAME`, and the entire `assets/` folder to the **root** of
 6. HTTPS becomes available after GitHub completes DNS validation and certificate issuance.
 
 All files are static, mobile-friendly, and self-contained; no frameworks, external fonts, tracking scripts, or paid hosting required.
+
+## Photography update
+Hero and eight service images have been replaced with realistic AI-generated automotive photo crops. These are illustrative, not actual photographs of Collision Kings employees or facilities. Replace them with your own licensed shop photos when available.
