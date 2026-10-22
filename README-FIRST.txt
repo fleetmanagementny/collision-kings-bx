@@ -1,11 +1,11 @@
-COLLISION KINGS HOMEPAGE UPDATE
+COLLISION KINGS — DRAMATIC HOMEPAGE UPDATE
 
-IMPORTANT: Your working estimate-form.html and estimate-thank-you.html must remain in the GitHub repository. This ZIP deliberately does not overwrite them.
+1. Keep CNAME, estimate-form.html, estimate-thank-you.html, and README.md in your repository.
+2. Upload index.html to the ROOT of the repo, replacing the existing index.html.
+3. Upload all files inside assets/ to the existing assets/ folder, replacing matching files. Do not upload an extra nested folder.
+4. Commit changes, wait for GitHub Pages deployment, then hard-refresh https://collisionkingsbx.com/.
+5. Test Request an Estimate, social feed, desktop/mobile menu and logo.
 
-Upload index.html to repository root (replace old index.html). Upload every file in assets/ into the existing assets folder (replace matching filenames). Keep CNAME, analytics, and the estimate files.
+Includes official logo with dark background suppressed to transparency, a cropped photo-booth image derived from the approved visual mockup, and all existing service assets. The mockup image itself is not a functional website.
 
-This homepage adds the official provided logo image, a favicon, the Elfsight combined social feed and social icon widget, direct links to the existing functional estimate form, and the verified Google Maps listing.
-
-NOTE ON PHOTOS: Existing service photos are preserved rather than misrepresented as new high-resolution photography. The paint service image is used for the hero as an interim improvement. For a genuine high-resolution hero and eight new service photos, source licensed professional images or upload your own high-res shop photos.
-
-Elfsight feeds may require an active published widget and can take a moment to load. Social profile links remain visible if the widget is unavailable.
+Google Analytics and Elfsight widgets are preserved from the previous version.
