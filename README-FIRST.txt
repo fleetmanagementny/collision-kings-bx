@@ -1,7 +1,9 @@
-Collision Kings — Meet Our Team (updated with Menor)
+Collision Kings — Homepage Meet the Team update
 
-Upload staff.html to the root of the GitHub repository, replacing the existing staff.html.
-Upload staff-photos/menor.png inside the existing staff-photos folder.
-No other files need to be deleted or changed.
+Upload ONLY index.html to the ROOT of your GitHub repository, replacing the existing index.html.
 
-Visit https://collisionkingsbx.com/staff.html after GitHub Pages deploys.
+KEEP staff.html, staff-photos/, estimate-form.html, estimate-thank-you.html, CNAME and assets/ unchanged.
+
+This update adds a Meet the Team navigation link and a 3-person preview using existing staff-photos/asaad.jpg, staff-photos/chris.jpg and staff-photos/menor.png. The full team button opens staff.html.
+
+The existing hero, logo, social integrations, Google Analytics and estimate links are preserved.
